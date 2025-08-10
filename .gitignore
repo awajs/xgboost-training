@@ -1,0 +1,15 @@
+# Virtual envs
+env/
+xgb_env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
